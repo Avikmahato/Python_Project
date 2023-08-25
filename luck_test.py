@@ -9,7 +9,7 @@ while 7:
         print(Fore.GREEN+"\t\t************Your Choise Number Is High************")
     elif you<com and you>0:
         print(Fore.LIGHTBLUE_EX+'\t\t*************Your Choise Is Low**************')
-    elif you<=1 or you >100:
+    elif you<1 or you >100:
         print(Fore.RED+"********Please Choose Number In Between 1 To 100********")
     else:
         print("Your Guess Is Correct")
