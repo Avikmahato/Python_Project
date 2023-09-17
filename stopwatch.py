@@ -1,6 +1,5 @@
 from turtle import *
 from time import *
-from os import *
 t=Turtle()
 digi=Turtle()
 name=Turtle()
